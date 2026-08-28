@@ -1,8 +1,7 @@
 # ☕ Coffee Shop Sales Dashboard
 An interactive Excel dashboard designed to analyze retail revenue, customer traffic, and product performance across store locations. Designed with a custom espresso/beige theme focused on executive readability and data-driven insights.
 
-<img width="1920" height="1140" alt="Screenshot 2026-08-28 143436" src="https://github.com/user-attachments/assets/d2d3895d-0b83-437b-ad77-ae3338f2e147" />
-![Coffee Shop Dashboard](dashboard-preview.png)
+<img width="1920" height="1140" alt="Screenshot 2026-08-28 152752" src="https://github.com/user-attachments/assets/0b97ca2d-70f8-4e64-adc1-7e28681fe1a6" />
 
 ---
 
